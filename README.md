@@ -67,7 +67,8 @@ Key findings:
 
 ## 📁 Folder Structure
 
-```Hotel_Booking_Analytics/
+```
+Hotel_Booking_Analytics/
 ├── data/
 │ ├── hotel_bookings.xlsx
 │ └── Updated_data.xlsx
@@ -101,7 +102,8 @@ pip install pandas numpy seaborn matplotlib streamlit ttkbootstrap
 
 # Run Streamlit dashboard
 streamlit run dashboards/DashBoard.py
+
+
 📬 Contact
 Open an issue or fork the project to contribute.
 
----
